@@ -1,6 +1,21 @@
-## Hi there, I'm Hiruni 👋
-🎓 MSc in Advanced Computer Science | University of Leicester  
-💻 BSc (Hons) in Electronic & Telecommunication Engineering (First Class)
+<!-- Typing headline -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Web+Developer;Data+Analytics+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+
+<h1 align="center">Hi there, I'm Hiruni Pathirana 👋</h1>
+<p align="center">
+  Focused on <b>Web Development</b> and <b>Data Analytics</b> - building responsive apps and turning data into useful insights.
+</p>
+
+<p align="center">
+  <a href="https://hiruni-pathirana.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/HiruSP">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/hiruni-pathirana98">🔗 LinkedIn</a> •
+  <a href="mailto:hiruninavoda698@gmail.com">📧 Email</a>
+</p>
+
+## 🎓 Education
+💻 MSc in Advanced Computer Science | University of Leicester  
+🤖 BSc (Hons) in Electronic & Telecommunication Engineering (First Class)
 
 ### 👩‍🎓 About Me
 A motivated and detail-oriented software engineer with a strong focus on **Web Development** and **Data Analytics**. Skilled in building dynamic, responsive web applications and deriving meaningful insights from complex datasets to support informed decision-making.
@@ -14,9 +29,6 @@ A motivated and detail-oriented software engineer with a strong focus on **Web D
 - Testing: Selenium | TestNG
 - Cloud & DevOps: AWS | Docker | Kubernetes | Git | GitHub
 - Tools: VS Code | Eclipse
-
-### 🌐 Links
-- LinkedIn: https://www.linkedin.com/in/hiruni-pathirana98/
 
 ### 🏆 Achievements
 - **Best Overall Performance Award** – BSc (Hons) in Electronic & Telecommunication Engineering
